@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+¡Hola, soy Clark! Soy un desarrollador front-end de web. Me encanta aprender nuevas tecnologías y habilidades de la web y saber más de este mundo 😸.
+
 
 [<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:javierrk99@gmail.com)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://javierkantun.netlify.app/)
