@@ -3,12 +3,11 @@
 Desarrollador web y entusiasta de la tecnología, enfocado en la innovación y desarrollo web, soy una persona que ​continuamente se encuentra realizando cursos y aprendiendo nuevas tecnologías.
 
 ---
-<br/>
+
 ### Contactame
 
 [<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:javierrk99@gmail.com)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://javierkantun.netlify.app/)
-
 
 ---
 
