@@ -1,4 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+### Soy Javier Ramirez
+
 
 Desarrollador web y entusiasta de la tecnología, enfocado en la innovación y desarrollo web, soy una persona que ​continuamente se encuentra realizando cursos y aprendiendo nuevas tecnologías.
 
