@@ -11,9 +11,6 @@ Desarrollador web y entusiasta de la tecnología, enfocado en la innovación y d
 
 ---
 
-
----
-
 ### Lenguajes y Heramientas🛠 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
