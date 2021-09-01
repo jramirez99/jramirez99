@@ -2,7 +2,6 @@
 
 ### Soy Javier Ramirez
 
-Desarrollador web y entusiasta de la tecnología, enfocado en la innovación y desarrollo web, soy una persona que ​continuamente se encuentra realizando cursos y aprendiendo nuevas tecnologías.
 
 ---
 
